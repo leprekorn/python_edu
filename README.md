@@ -4,7 +4,7 @@ Answers for exercises on course Selenium Web Driver on Stepik.org: https://stepi
 
 How to run:
 cd .\Stepik\environments\selenium_env\Scripts\
-Activate.ps1
+./Activate.ps1
 cd ..
 python lesson_2_3_4.py
 
